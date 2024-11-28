@@ -77,7 +77,7 @@
     <div class="container">
 
         <h1>Hello Teacher, My name is Santiago :3!</h1>
-        <p>Welcome to my simple page MAIN in PHP 2024/11/28 <?php echo gethostname();?></p>
+        <p>Welcome to my page php QA in PHP 2024/11/28 <?php echo gethostname();?></p>
 
 
         <div class="quote">
