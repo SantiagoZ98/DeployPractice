@@ -75,8 +75,11 @@
 
 <body>
     <div class="container">
+
         <h1>Hello Teacher, My name is Santiago :3!</h1>
         <p>Welcome to my simple page QA in PHP 2024 <?php echo gethostname();?></p>
+
+
         <div class="quote">
             <p>"Discipline is choosing between what you want now and what you want most. Every drop of sweat brings you closer to your goals—stay consistent, and the results will follow."</p>
             <p> :D </p>
