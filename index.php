@@ -75,8 +75,8 @@
 
 <body>
     <div class="container">
-        <h1>Hello, World My name is Freddy and Santiago:3!</h1>
-        <p>Welcome to my simple Go-powered web page. Let's make the world a better place!</p>
+        <h1>Hello, World My name is Santiago:3!</h1>
+        <p>Welcome to my simple page en PHP <?php echo gethostname();?> </p>
         <div class="quote">
             <p>"Discipline is choosing between what you want now and what you want most. Every drop of sweat brings you closer to your goals—stay consistent, and the results will follow."</p>
             <p> :D </p>
