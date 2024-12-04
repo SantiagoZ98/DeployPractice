@@ -82,7 +82,7 @@
 
         <div class="quote">
             <p>"Discipline is choosing between what you want now and what you want most. Every drop of sweat brings you closer to your goals—stay consistent, and the results will follow."</p>
-            <p> :D :3</p>
+            <p> :D relax</p>
         </div>
         <div class="footer">
             <button class="btn" onclick="window.location.reload();">Reload Page</button>
